@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @qinti2023
 - 👀 I’m a Bioinformatics enthusiast.
-- 🌱 I possess adept skills in utilizing Python and R programming languages.
-- 😄 I possess a foundational understanding of Linux commands, having engaged in bulk and single-cell transcriptomics analyses.
-- ⚡ my guiding principle--- “Humility in acknowledging one’s limitations marks the inception of transcending biases.” 
+- ⚡ Proficient in R, Python, and Linux, with a strong passion for data analysis and data visualization.
+- 🌱 Independently completed projects related to bulk RNA-seq, single-cell RNA-seq, and ribo-seq.
+- 😄 My guiding principle--- “Humility in acknowledging one’s limitations marks the inception of transcending biases.”
 - 📫 Email：qinti@zju.edu.cn
-
 
 <!---
 qinti2023/qinti2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
